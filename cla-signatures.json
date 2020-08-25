@@ -1,0 +1,28 @@
+{
+  "signedContributors": [
+    {
+      "name": "AnandChowdhary",
+      "id": 2841780,
+      "comment_id": 669143169,
+      "created_at": "2020-08-05T11:36:56Z",
+      "repoId": 276858968,
+      "pullRequestNo": 56
+    },
+    {
+      "name": "KojBot",
+      "id": 67733299,
+      "comment_id": 669147408,
+      "created_at": "2020-08-05T11:47:56Z",
+      "repoId": 276858968,
+      "pullRequestNo": 57
+    },
+    {
+      "name": "CleverclipBot",
+      "id": 68742214,
+      "comment_id": 669935979,
+      "created_at": "2020-08-06T13:45:36Z",
+      "repoId": 276858968,
+      "pullRequestNo": 62
+    }
+  ]
+}
